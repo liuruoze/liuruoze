@@ -12,8 +12,4 @@ At NJU, I work with [Prof. Tong Lu](https://cs.nju.edu.cn/lutong/) from [Imagine
 😄 **I am open to**:
 
 - Paper review
-- Internship:  Reinforcement Learning Internship. 
-
-📫 **I can be contacted by**:
-- Email (liuruoze@163.com)
-- [Zhihu:「liuruoze」](https://www.zhihu.com/people/liu-ruo-ze)
+- Internship:  Reinforcement Learning or Game AI. 
