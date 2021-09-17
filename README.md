@@ -1,11 +1,6 @@
-### Hi there, I'm Ruo-Ze Liu
+### Hi, I'm Ruo-Ze Liu
 
-I am a fourth-year Ph.D. student at [Nanjing University (NJU)](https://www.nju.edu.cn/en/main.psp).
-Before joining NJU, I was a data scientist at [CICDI China](https://www.cicdi.com/html/1/).
-
-I have led [> 5 ML open-source initiatives](https://github.com/liuruoze), receiving 6000 GitHub stars.
-
-I specialize in building **deep reinforcement learning agents**, with applications in games, StarCraft I and II. 
+I am a fourth-year Ph.D. student at [Nanjing University (NJU)](https://www.nju.edu.cn/en/main.psp). Before joining NJU, I was a data scientist at [CICDI China](https://www.cicdi.com/html/1/). I have led [> 5 ML open-source initiatives](https://github.com/liuruoze), receiving 6000 GitHub stars. I specialize in building **deep reinforcement learning agents**, with applications in games, StarCraft I and II. 
 
 🔭 **Research-wise, I mainly focus on**:
 
