@@ -9,7 +9,6 @@ I specialize in building **deep reinforcement learning agents**, with applicatio
 
 🔭 **Research-wise, I mainly focus on**:
 
-- **Deep Reinforcement Learning** topics to utilize the power of deep learning to solve reinforcement learning tasks.
 - **Hierarchical Reinforcement Learning** topics to solve complex games or environments.
 - **Model-based Reinforcement Learning** topics to do efficient training.
 
