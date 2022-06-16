@@ -8,8 +8,3 @@ I am currently a Ph.D. student at [Nanjing University (NJU)](https://www.nju.edu
 - **Model-based Reinforcement Learning** topics to do efficient training.
 
 At NJU, I work with [Prof. Tong Lu](https://cs.nju.edu.cn/lutong/) from [Imagine Lab](https://cs.nju.edu.cn/lutong/) on deep learning and [Prof. Yang Yu](http://www.lamda.nju.edu.cn/yuy/) from [LAMDA](http://www.lamda.nju.edu.cn/MainPage.ashx) on reinforcement learning. 
-
-😄 **I am open to**:
-
-- Paper review
-- Internship:  Reinforcement Learning on Game AI. 
